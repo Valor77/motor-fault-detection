@@ -32,6 +32,9 @@ After generating the dataset with MATLAB, we:
 
 ![RPM vs Time with Fault](your_image_or_colab_screenshot_link)
 
+
+Note: The rolling mean begins to decline around 90 seconds due to the smoothing window including the early moments of fault injection at 100s. This kind of early dip can be useful in real-world systems for pre-fault warning or predictive diagnostics.
+
 ---
 
 🧠 What I Learned
