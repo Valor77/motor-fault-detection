@@ -58,13 +58,20 @@ Note: The rolling mean begins to decline around 90 seconds due to the smoothing 
 
 📁 Folder Structure
 motor-fault-detection/
-├── data/
-│ └── motor_data.csv
-├── matlab/
-│ └── simulate_motor_data.m
-├── notebooks/
-│ └── motor_fault_analysis.ipynb
-├── README.md
+
+   ├── data/
+   │ └── motor_data.csv
+
+
+   ├── matlab/
+   │ └── simulate_motor_data.m
+
+   
+   ├── notebooks/
+   │ └── motor_fault_analysis.ipynb
+
+   
+   ├── README.md
 
 ---
 
